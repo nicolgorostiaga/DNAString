@@ -46,4 +46,4 @@ public class DNAFile{
 		data.readDNAFile();// call readDNAFile method
 		data.closeDNAFile();//call closeDNAFile method
 	}// end main
-}// end class DNAFile
+}// end DNAFile
